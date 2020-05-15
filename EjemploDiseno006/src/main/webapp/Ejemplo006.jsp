@@ -120,7 +120,7 @@
                 <div class="container footer">
                     <div class="footer_bottom">
                         <div class="copy">
-                            <p>derechos reservados</p>
+                            <p>derechos reservados DR.Ivan Petrlik Azabache</p>
                         </div>   
                         <ul class="social">
                             <li><a href="#"><i class="fb"></i></a></li>
